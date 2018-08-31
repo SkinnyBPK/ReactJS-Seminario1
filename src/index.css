@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+article {
+  margin: 100px;
+  padding: 2px;
+  background-color: lightseagreen;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+img {
+  border-radius:100%;
+}
